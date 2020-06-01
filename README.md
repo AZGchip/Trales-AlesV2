@@ -65,7 +65,7 @@ As an app that supports physical activity, it would also be convenient to link i
 
 ### Global Expansion
 
-This app is optimized for searches within the United States of America. With additional API's and research, it can extend beyond the current national limits and render accurate trail and guide data for other countries and world regions.
+This app utilizes Hiking Project.com's API, which already contains many trails outside The United States. With additional research and development, different language support can be implemented as well as the filtering of guides based on language preference.
 
 ## Creators
 
